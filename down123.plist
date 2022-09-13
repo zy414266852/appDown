@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.app.zytest</string>
+				<string>com.bytedance.labcv.demo</string>
 				<key>bundle-version</key>
-				<string>1.4.9.</string>
+				<string>4.4.0_standard</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
