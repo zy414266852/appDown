@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.luyaoschool.app</string>
+				<string>com.app.zytest</string>
 				<key>bundle-version</key>
 				<string>1.4.9.</string>
 				<key>kind</key>
