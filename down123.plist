@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://luyaostory.oss-cn-beijing.aliyuncs.com/luyaoschool.ipa</string>
+					<string>https://vcdn.exampleol.com/ios/nikaixinjiuhao.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.luyaoschool.app</string>
 				<key>bundle-version</key>
-				<string>2.8.2.0</string>
+				<string>1.4.9.</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>问学长</string>
+				<string>纸鸢</string>
 			</dict>
 		</dict>
 	</array>
